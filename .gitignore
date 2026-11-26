@@ -43,3 +43,7 @@ secrets.json
 ## OS Files
 .DS_Store
 Thumbs.db
+
+## Local Learning & Planning Guides (Never Push to Git)
+learning-roadmap/
+
